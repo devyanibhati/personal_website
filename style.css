@@ -1126,7 +1126,7 @@ position: center;}
 
 }
 
-@media only screen and (min-width: 801px) {
+@media only screen and (min-width: 900px) {
 
     /*===== Structures =====*/
     .site-header,
@@ -1230,7 +1230,7 @@ position: center;}
     }
 
     .large-2 {
-      width: 70%;
+      width: 40%;
     }
 
     .large-2:nth-child(1n) {
