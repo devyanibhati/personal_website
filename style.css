@@ -43,7 +43,7 @@ html {
     -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-font-face {
+/**font-face {
   font-family: 'icomoon';
   src: url("icomoon.css");
   src: url("icomoon.css") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
@@ -51,7 +51,7 @@ font-face {
 
 @import url("fonts.css");
 @import url("font-awesome/css/font-awesome.min.css");
-@import url("micons/micons.css");
+@import url("micons/micons.css");**/
 
 
 body {
