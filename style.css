@@ -1126,12 +1126,12 @@ position: center;}
 
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 801px) {
 
     /*===== Structures =====*/
     .site-header,
     .page-desc {
-        padding: 80px;
+        padding: 40px;
     }
     .row {
         margin-top: 0px;
